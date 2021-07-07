@@ -14,5 +14,3 @@ DEBUG = True
 WSGI_APPLICATION = 'app.wsgi.dev.application'
 ASGI_APPLICATION = 'app.asgi.application'
 
-
-
